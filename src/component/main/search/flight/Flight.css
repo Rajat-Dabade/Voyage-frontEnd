@@ -1,0 +1,49 @@
+.icon-input-field {
+  margin-top: 10px !important;
+}
+
+.radio-style {
+  margin-left: 15px;
+}
+
+.count-input-field {
+  width: 18.15rem !important;
+  margin-top: 1.812rem !important;
+}
+
+.search-button {
+  padding: 0.625rem 30% !important;
+  margin: 2.25rem 1rem 2.25rem 0rem !important;
+}
+
+.date-input-field {
+  width: 18.75rem;
+}
+
+@media only screen and (max-width: 480px) {
+  .search-input-field {
+    margin-right: 19px !important;
+    margin-left: 0px !important;
+  }
+
+  .icon-input-field {
+    margin-top: 0px !important;
+    margin-right: 19px !important;
+  }
+  
+
+  .date-input-field {
+    width: 16.15rem;
+    margin-top: 1.812rem !important;
+  }
+
+  .count-input-field {
+    width: 16.15rem !important;
+    margin-top: 1.812rem !important;
+  }
+
+  .search-button {
+    padding: 0.625rem 5.6rem !important;
+    margin: 1.25rem 1rem 1.25rem 0rem !important;
+  }
+}

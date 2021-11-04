@@ -1,0 +1,19 @@
+.search-section {
+  padding-top: 12px;
+  padding-left: 18px;
+  padding-right: 12px;
+  padding-bottom: 18px;
+}
+
+.search-box {
+  border-radius: 33px !important;
+}
+
+@media only screen and (max-width: 480px) {
+  .search-section {
+    padding-top: 12px;
+    padding-left: 18px;
+    padding-right: 12px;
+    padding-bottom: 18px;
+  }
+}
